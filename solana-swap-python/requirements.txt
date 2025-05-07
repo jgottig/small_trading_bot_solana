@@ -1,0 +1,4 @@
+solana
+base58
+requests
+aiohttp
